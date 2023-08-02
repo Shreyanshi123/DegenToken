@@ -1,6 +1,6 @@
 ## DegenToken Smart Contract ##
 
-## Features##
+## Features ##
 -The DegenToken smart contract is an ERC20 token contract with additional functionalities to handle unique Candy tokens and game store purchases.
 
 -It allows the contract owner to mint new Degen tokens for players as rewards and simultaneously mint a new unique Candy token with custom attributes.
